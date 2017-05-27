@@ -10,9 +10,10 @@ alert('Folow me : My  username is sahunidhi18');
 <title>
 Hello, My name is Nidhi Sahu.
 </title>
+</head>
 <body>
 <input id='myButton' type='button' value='Follow Me!'/>
 </body>
 
-</head>
+
 </html>
