@@ -1,0 +1,18 @@
+<html>
+<head>
+<script>
+$(document).ready(function(){
+$('#myButton').click(function(){
+alert('Folow me : My  username is sahunidhi18');
+});
+});
+</script>
+<title>
+Hello, My name is Nidhi Sahu.
+</title>
+<body>
+<input id='myButton' type='button' value='Follow Me!'/>
+</body>
+
+</head>
+</html>
